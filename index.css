@@ -1,0 +1,109 @@
+*{
+    background-color: #4333d3;
+    color: rgb(178, 175, 204);
+    font-weight: bold;
+    
+    font-display: 10px;
+    
+
+    ;
+
+}
+#title{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    
+    color: #01090f;
+    border: hsl(207, 24%, 93%);
+    border-start-start-radius: ;
+}
+#pre{
+    font-size: large;
+}
+p{
+    font-style: oblique;
+    text-emphasis-color: pink;
+    background-color: rgb(28, 46, 49);
+    color: blanchedalmond
+
+}
+img{
+    border-radius:8px ;
+    max-width: 70%;
+    max-height: fit-content;
+
+}
+# desc 1{
+color: white;
+}
+# gb{
+    border: 1px;
+    border-style: solid;
+    border-color: beige;
+}
+button{
+    size-adjust: 20px;
+    border-top-right-radius: ;
+    border-top-color: #e70707;
+
+}
+#VAL {
+    
+    background-color: #48ff00
+    padding-bottom: 100px;
+    text-align:center;
+    height: 100px;
+    
+    
+    
+
+}
+#V22{
+    text-align: center;
+    border-color: blue;
+    border-radius: 5%;
+    background-color: blue;
+    
+    font-size: x-large;
+    font: 500;
+    padding: 100px;
+
+}
+#GB24{
+    
+    align-items: center;
+    border-radius: 50px;
+    border-color: rgb(31, 29, 29);
+}
+.card h4 {
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 150px;
+    background-color:#274146 ;
+    scroll-padding: 20px;
+    display: flex;
+    flex-flow: row-reverse;
+    text-align: center;
+    align-content: center;
+    max-width: 300px;
+    border-width: 10px;
+    border-image: none;
+
+}
+
+.MISIION{
+    font-display: 10px;
+    display: flex;
+    align-self: center;
+    background-color: rgb(27, 44, 44);
+    text-align: justify;
+    background-position: 100px;
+
+}
+
+
+
